@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-28T23:22:31.129323"
+  },
+  "extracted_sections": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "\u2022 ",
+      "importance_rank": 1,
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "\uf0b7 ",
+      "importance_rank": 2,
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "\uf0b7 ",
+      "importance_rank": 3,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "o Add diced tomatoes, fish stock, wine, saffron, thyme, salt, and pepper, simmer ",
+      "importance_rank": 4,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "o 1 small onion ",
+      "importance_rank": 5,
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "o Scramble eggs in the same pan. ",
+      "importance_rank": 6,
+      "page_number": 1
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "\u2022 \nServe immediately. \n \n \n \nBerry and Spinach Smoothie \nIngredients: \n\u2022 \n1/2 cup frozen berries \n\u2022 \n1/2 cup spinach \n\u2022 \n1/2 cup Greek yogurt \n\u2022 \n1/2 cup almond milk \n\u2022 \n1 tablespoon honey \nInstructions: \n\u2022 \nIn a blender, combine frozen berries, spinach, Greek yogurt, almond milk, and honey. \n\u2022 \nBlend until smooth. \n\u2022 \nServe immediately. \n \n \n \nFruit and Nut Bars \nIngredients: \n\u2022 \n1 cup dates, pitted \n\u2022 \n1 cup mixed nuts \n\u2022 \n1/4 cup dried fruit \n\u2022 \n1 tablespoon honey \nInstructions: \n\u2022 \nIn a food processor, combine dates, mixed nuts, dried fruit, and honey. \n\u2022 \nProcess until the mixture comes together. \n\u2022 \nPress the mixture into a greased baking dish. \n\u2022 \nRefrigerate for at least 1 hour before cutting into bars. \n\u2022 \nStore in an airtight container. \n \n \n \nPeanut Butter and Banana Smoothie \nIngredients: \n\u2022 \n1 banana \n\u2022 \n1/2 cup Greek yogurt \n\u2022 \n1/2 cup almond milk \n\u2022 \n1 tablespoon peanut butter \n\u2022 \n1 tablespoon honey \nInstructions: \n\u2022 \nIn a blender, combine banana, Greek yogurt, almond mi",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\uf0b7 \nAdd shrimp, mussels, and cooked chicken, simmer for an additional 10 minutes until \nseafood is cooked and rice is tender. \n\uf0b7 \nGarnish with lemon wedges and serve. \n \n \n \nPork Chops with Apples \nIngredients: \n\uf0b7 \n4 pork chops \n\uf0b7 \n2 apples, sliced \n\uf0b7 \n1 small onion, sliced \n\uf0b7 \n1/4 cup apple cider \n\uf0b7 \n1/4 cup chicken broth \n\uf0b7 \n2 tablespoons butter \n\uf0b7 \n1 tablespoon olive oil \n\uf0b7 \n1 teaspoon thyme \n\uf0b7 \nSalt and pepper to taste \nInstructions: \n\uf0b7 \nSeason pork chops with salt and pepper. \n\uf0b7 \nIn a large skillet, heat olive oil over medium heat. \n\uf0b7 \nCook pork chops until browned on both sides, then set aside. \n\uf0b7 \nIn the same skillet, melt butter and saut\u00e9 sliced onion and apples until softened. \n\uf0b7 \nStir in apple cider, chicken broth, and thyme. \n\uf0b7 \nReturn pork chops to the skillet and simmer for 10 minutes until cooked through. \n\uf0b7 \nServe warm. \n \n \n \nRatatouille \nIngredients: \n\uf0b7 \n1 eggplant, diced \n\uf0b7 \n1 zucchini, diced \n\uf0b7 \n1 bell pepper, diced \n\uf0b7 \n1 small onion, diced \n\uf0b7 \n2 cloves garlic, minced",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "\uf0b7 \nInstructions: \no Form risotto into balls and stuff with a cube of mozzarella. \no Dredge balls in flour, dip in beaten eggs, and coat with breadcrumbs. \no Fry in hot oil until golden. \no Drain on paper towels and serve warm. \n \nBaba Ganoush \n\uf0b7 \nIngredients: \no 2 eggplants \no 1/4 cup tahini \no 1/4 cup lemon juice \no 2 cloves garlic \no 1/4 cup olive oil \no 1 teaspoon salt \n\uf0b7 \nInstructions: \no Roast eggplants until soft, then peel and mash. \no Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food \nprocessor. \no Slowly add olive oil while blending until smooth. \no Serve with a drizzle of olive oil. \n \nBaked Beans \n\uf0b7 \nIngredients: \no 4 cups cooked navy beans \no 1 small onion \no 1/2 cup molasses \no 1/4 cup brown sugar \no 1/4 cup ketchup \no 1 tablespoon mustard \no 1 teaspoon salt \no 1/2 teaspoon pepper \n\uf0b7 \nInstructions: \no Preheat oven to 350\u00b0F (175\u00b0C). \no Saut\u00e9 diced onion until translucent. \no Mix beans, onion, molasses, brown sugar, ketchup, mustard, salt, and pep",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Add diced tomatoes, fish stock, wine, saffron, thyme, salt, and pepper, simmer \nfor 20 minutes. \no Add fish fillets, shrimp, and mussels, cook until seafood is done. \no Serve hot with crusty bread. \n \nBratkartoffeln (Fried Potatoes) \n\uf0b7 \nIngredients: \no 4 potatoes \no 1 small onion \no 1/4 cup bacon \no 2 tablespoons butter \no 1 teaspoon salt \no 1/2 teaspoon pepper \n\uf0b7 \nInstructions: \no Boil potatoes until tender, then slice. \no Cook diced bacon until crispy, then remove and set aside. \no Saut\u00e9 sliced potatoes and diced onion in butter until golden. \no Stir in bacon, salt, and pepper. \no Serve warm. \n \nBriam \n\uf0b7 \nIngredients: \no 2 potatoes \no 2 zucchinis \no 2 eggplants \no 2 tomatoes \no 1 small onion \no 4 cloves garlic \no 1/4 cup olive oil \no 1 teaspoon oregano \no 1 teaspoon salt \no 1/2 teaspoon pepper \n\uf0b7 \nInstructions: \no Preheat oven to 375\u00b0F (190\u00b0C). \no Slice potatoes, zucchinis, eggplants, and tomatoes. \no Saut\u00e9 diced onion and minced garlic in olive oil until softened. \no Layer vegetab",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o 1 small onion \no 2 cloves garlic \no 1/4 cup parsley \no 1 teaspoon cumin \no 1 teaspoon cinnamon \no 1 teaspoon salt \no 1/2 teaspoon pepper \no 1 package phyllo dough \no 1/4 cup butter \no Oil for frying \n\uf0b7 \nInstructions: \no Saut\u00e9 ground beef, diced onion, and minced garlic until cooked. \no Stir in chopped parsley, cumin, cinnamon, salt, and pepper. \no Cut phyllo dough into strips and brush with melted butter. \no Place a spoonful of filling on each strip and fold into triangles. \no Fry in hot oil until golden. \no Drain on paper towels and serve warm. \n \nBruschetta \n\uf0b7 \nIngredients: \no 1 baguette \no 4 tomatoes \no 1/4 cup basil \no 2 cloves garlic \no 1/4 cup olive oil \no 1 teaspoon salt \n\uf0b7 \nInstructions: \no Slice baguette and toast until golden. \no Dice tomatoes and chop basil. \no Mix tomatoes, basil, minced garlic, olive oil, and salt. \no Spoon mixture onto toasted bread and serve. \n \nBulgur Pilaf \n\uf0b7 \nIngredients: \no 1 cup bulgur \no 2 cups chicken broth \no 1 small onion \no 1 carrot \no 1/4 cu",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o Scramble eggs in the same pan. \no Add noodles, fish sauce, tamarind paste, sugar, and lime juice, stir to combine. \no Add bean sprouts, cooked shrimp, and chopped green onions. \no Garnish with crushed peanuts and serve. \n \nPajeon (Pancakes) \n\uf0b7 \nIngredients: \no 1 cup flour \no 1 cup water \no 1 egg \no 1/2 cup green onions \no 1/2 cup seafood (optional) \no 1 tablespoon soy sauce \no 1 tablespoon sesame oil \n\uf0b7 \nInstructions: \no Mix flour, water, and beaten egg in a bowl. \no Add chopped green onions and seafood (if using). \no Heat sesame oil in a pan and pour in batter. \no Cook until golden on both sides. \no Serve with soy sauce for dipping. \n \nPan con Tomate \n\uf0b7 \nIngredients: \no 1 baguette \no 4 tomatoes \no 2 cloves garlic \no 1/4 cup olive oil \no 1 teaspoon salt \n\uf0b7 \nInstructions: \no Slice baguette and toast until golden. \no Rub toasted bread with cut garlic cloves. \no Grate tomatoes and spread on bread. \no Drizzle with olive oil and sprinkle with salt. \no Serve immediately. \n \nPaneer Tikka \n\uf0b7",
+      "page_number": 1
+    }
+  ]
+}

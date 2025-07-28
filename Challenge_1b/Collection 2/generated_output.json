@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processing_timestamp": "2025-07-28T23:22:30.750923"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "2. Under Categories, select Signatures. ",
+      "importance_rank": 1,
+      "page_number": 27
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Group and ungroup markups ",
+      "importance_rank": 2,
+      "page_number": 11
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "2. Under Categories, select Signatures. \n3. For Identities & Trusted Certificates, select More. \n4. Expand Digital IDs on the left, select Roaming ID Accounts, and select Add \nAccount. \n5. Type the name and URL for the roaming ID server, and select Next. \n6. Type your user name and password, or follow the directions to create an account. \nSelect Next, and then select Finish. \nOnce the roaming ID is added, it can be used for signing or encryption. When you perform a \ntask that uses your roaming ID, you\u2019re automatically logged in to the roaming ID server if your \nauthentication assertion hasn\u2019t expired. \n \nPKCS#12 modules and tokens \nYou can have multiple digital IDs that you use for different purposes, particularly if you sign \ndocuments in different roles or using different certification methods. Digital IDs are usually \npassword protected. They can be stored on your computer in PKCS #12 file format. Digital \nIDs can also be stored on a smart card, hardware token, or in the Windows cer",
+      "page_number": 27
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Group and ungroup markups \nYou can group two or more markups so that your comments function as a single comment. \nYou might group markups temporarily to move them to a new location or to modify their \nproperties rather than editing each one individually. Grouping also helps to distinguish your \nmarkups from other reviewers\u2019 markups in a document review. \nNote: You cannot group text edit markups. \nGroup markups \n1. Using the Select tool or the Hand tool, select a markup. \n2. Ctrl-click/Command-click to select the markups you want to group. \n3. Right-click within the selection, and choose Group. \nUngroup markups \n1. Right-click the grouped selection, and choose Ungroup. \n \n \n",
+      "page_number": 11
+    }
+  ]
+}
